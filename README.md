@@ -1,2 +1,2 @@
 # projects
-Where I store my projecys
+Where I store my projects
